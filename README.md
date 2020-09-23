@@ -1,5 +1,5 @@
 # WatchdogTimer
-Generic BLE Hardware Watchdog timer for .ino, .cpp (should be compiled on mbed.os)
+⏰ Generic BLE Hardware Watchdog timer for .ino, .cpp (should be compiled on mbed.os)
 
 This is a Hardware Watchdog created mainly for Bluetooth devices. 
 
